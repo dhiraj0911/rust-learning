@@ -9,7 +9,7 @@ fn main() {
 
     struct Color(i32, i32, i32);
     struct Print(i32, i32, i32);
-
+    
     let mut user1 = User{
         email: String::from("dhirajbari911@gmail.com"),
         username: String::from("dhiraj0911"),
